@@ -1,0 +1,7 @@
+{
+  "name": "barquest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
