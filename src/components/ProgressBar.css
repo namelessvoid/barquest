@@ -1,0 +1,30 @@
+.progressbar-outer {
+    width: 96%;
+    margin: 10px 2%;
+    padding: 3px;
+    text-align: center;
+    background-color: #f4f4f4;
+    border: 1px solid #dcdcdc;
+    color: #fff;
+    border-radius: 5px;
+    position: relative;
+}
+
+.progressbar-inner {
+    white-space: nowrap;
+    overflow: hidden;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
+
+.progressbar-percentage {
+    top: 0;
+    height: 100%;
+    display: flex;
+    position: absolute;
+    color: black;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
